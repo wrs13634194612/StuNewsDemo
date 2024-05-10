@@ -1,0 +1,95 @@
+{
+  "sch_num": 1085,
+  "sch_ready_ed": 2,
+  "sch_ready_ing": 6,
+  "sch_ready_not": 1079,
+  "sch_ready_ing_list": [
+    {
+      "stu_id": 223,
+      "stu_name": "2018-2019学年度第二学期考试和放假时间安排",
+      "stu_status": "0",
+      "item_status": "2",
+      "stu_url": "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+      "stu_sex": "女",
+      "stu_birth": "1985-04-17",
+      "stu_addr": "四川成都",
+      "col_id": 3,
+      "grade_id": null,
+      "col_name": "南阳理工学院",
+      "grade_name": "校级"
+    },
+    {
+      "stu_id": 255,
+      "stu_name": "2018-2019学年度第二学期考试和放假时间安排",
+      "stu_status": "0",
+      "item_status": "2",
+      "stu_url": "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+      "stu_sex": "男",
+      "stu_birth": "1993-01-25",
+      "stu_addr": null,
+      "col_id": 3,
+      "grade_id": null,
+      "col_name": "南阳理工学院",
+      "grade_name": "校级"
+    },
+    {
+      "stu_id": 435,
+      "stu_name": "2018-2019学年度第二学期考试和放假时间安排",
+      "stu_status": "0",
+      "item_status": "2",
+      "stu_url": "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+      "stu_sex": "男",
+      "stu_birth": "1988-06-30",
+      "stu_addr": null,
+      "col_id": 2,
+      "grade_id": null,
+      "col_name": "南阳理工学院",
+      "grade_name": "校级"
+    },
+    {
+      "stu_id": 572,
+      "stu_name": "2018-2019学年度第二学期考试和放假时间安排",
+      "stu_status": "0",
+      "item_status": "2",
+      "stu_url": "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+      "stu_sex": "男",
+      "stu_birth": "1993-07-19",
+      "stu_addr": "陕西咸阳",
+      "col_id": 1,
+      "grade_id": null,
+      "col_name": "南阳理工学院",
+      "grade_name": "校级"
+    },
+    {
+      "stu_id": 954,
+      "stu_name": "2018-2019学年度第二学期考试和放假时间安排",
+      "stu_status": "0",
+      "item_status": "2",
+      "stu_url": "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+      "stu_sex": "女",
+      "stu_birth": "2001-09-20",
+      "stu_addr": "新疆喀什",
+      "col_id": 5,
+      "grade_id": null,
+      "col_name": "南阳理工学院",
+      "grade_name": "校级"
+    },
+
+    {
+      "stu_id": 5035,
+      "stu_name": "2018-2019学年度第二学期考试和放假时间安排",
+      "stu_status": "0",
+      "item_status": "0",
+      "stu_url": "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+      "stu_sex": "男",
+      "stu_birth": "1988-06-30",
+      "stu_addr": "福建莆田",
+      "col_id": 2,
+      "grade_id": null,
+      "col_name": "南阳理工学院",
+      "grade_name": "校级"
+    }
+  ]
+}
+
+ 
